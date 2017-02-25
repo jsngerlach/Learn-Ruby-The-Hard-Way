@@ -1,0 +1,5 @@
+TYPE
+
+ruby ex17.rb ex17_sample.txt ex17_sample2.txt
+
+into your console
