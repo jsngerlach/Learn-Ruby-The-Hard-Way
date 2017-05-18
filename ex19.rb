@@ -1,5 +1,5 @@
 def cheese_and_crackers(cheese_count, box_of_crackers)
-  puts "You have #{cheese_count cheeses} cheeses!"
+  puts "You have #{cheese_count} cheeses!"
   puts "You have #{box_of_crackers} boxes of crackers!"
   puts "Man that's enough for a party!"
   puts "Get a blanket. \n"
