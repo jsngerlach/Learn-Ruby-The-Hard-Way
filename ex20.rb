@@ -16,7 +16,7 @@ current_file = open(input_file)
 
 puts"First let's print the whole file:\n"
 
-print_all(currentfile)
+print_all(current_file)
 
 puts "Now lets rewind, kind of like a tape."
 
